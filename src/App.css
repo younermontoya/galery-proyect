@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Lilita+One&family=Poetsen+One&display=swap');
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.text-center{
+    padding: 20px;
+    margin-bottom: 20px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 600;
+    color: white;
+}
+
+img{
+    width: 125px;
+    border-radius: 70%;
+    background-size: cover;
+    
+}
+.editarm{
+        display: flex;
+        gap: 100px;
+        justify-content: center;
+        align-items: center;
+        flex-direction: row-reverse;
+}
+.edit-text a{
+    color: white;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 100;
+    text-decoration: none;
+}
+
+

@@ -8,7 +8,7 @@ import Liver from './Liver';
 
 const Navegation = () => {
   return (
-    <div>
+    <div className='edit-text'>
         <Link to="/balon">
             <figure>
                 <Balon/>

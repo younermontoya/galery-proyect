@@ -3,7 +3,7 @@ import bayerxd from '../img/bayer.png'
 const Bayer = () => {
   return (
     <div>
-       <img src={bayerxd} alt="bayer Munich" /> 
+       <img  src={bayerxd} alt="bayer Munich" /> 
     </div>
   )
 }
